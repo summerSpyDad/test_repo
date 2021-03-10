@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-A Markdown file in the rpository
+A Markdown file in the repository
